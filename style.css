@@ -1,0 +1,223 @@
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.header-table {
+	width: 900px;
+	
+	background-color: red;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.content-table {
+	width: 600px;
+	background-color: #ffffff;
+	margin-right: auto;
+	margin-left: auto;
+	padding : 0px;
+	border-spacing: 0px;
+	border-collapse: separate;
+}
+
+.half-col {
+	width : 50%;
+}
+
+/* Header bar properties */
+.header-table-row {
+	background-color: #6ccdf0;
+	height: 85px;
+	color: #000;	
+	font-size: 14px;
+}
+
+#logo {
+	margin-left: 38px;
+}
+
+.header-bar-text {
+	margin-right: 25px;
+}
+
+.text-align-right {
+	text-align: right;
+}
+
+/* End Header bar properties */
+
+/* Discount and Recommendation properties */
+
+#discount-image 	{
+	width: 598px;
+}
+
+#button-table {
+	margin-top: 54px;
+	margin-bottom: 35px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.recommendation {
+	width: 200px;
+	text-align: center;
+}
+
+.recommendation-text {
+	display: block;
+	font-size: 14px;
+}
+
+.center-align {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+/* End Discount and Recommendation properties*/
+
+
+/* App promotion properties */
+
+#app-promo-container {
+	width: 550px;
+	height: 180px;
+	margin-top: 54px;
+	margin-bottom: 32px;
+	background-color: #e6e7e7;
+	margin-right: auto;
+	margin-left: auto;
+	padding : 0px;
+	border-spacing: 0px;
+	border-collapse: separate;
+}
+
+#app-promo-img {
+	padding-left: 79px;
+}
+
+#app-promo-text {
+	padding-left: 28px;
+	padding-right: 59px;
+}
+
+#app-promo-header-text {
+	display: block;
+	font-size: 24px;
+	font-weight: 600;	
+}
+
+#app-promo-body-text {
+	display: block;
+	margin-top: 10px;
+	font-size: 12px;
+	font-weight: 600;
+}
+
+#app-promo-button {
+	margin-top: 20px;
+}
+
+.recom-button-td {
+	padding: 12px 18px 12px 18px; 
+	border: 1px solid #393939;
+	text-align: center;
+}
+
+.recom-button-a {
+	font-size: 16px; 
+	font-family: Helvetica, Arial, sans-serif; 
+	font-weight: normal; 
+	color: #393939; 
+	text-decoration: none; 
+	display: inline-block;
+}
+
+.promo-button-td {
+	padding: 8px 48px 8px 48px; 
+	-webkit-border-radius:20px; 
+	border-radius:20px; 
+	border: 1px solid #fff;
+	background-color: #fff;
+	text-align: center;
+}
+
+.promo-button-a {
+	font-size: 14px; 
+	font-family: Helvetica, Arial, sans-serif; 
+	font-weight: normal; 
+	color: #393939; 
+	text-decoration: none; 
+	display: inline-block;
+
+}
+
+/* App promo properties end here */
+
+
+
+/* Footer Properties */
+
+.footer-bar {
+	margin-right: auto;
+	margin-left: auto;
+	width: 900px;
+}
+
+.footer-colors {
+	background-color: #393939;
+	color : #fff;
+}
+
+#footer-color-band {
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #6ccdf0;
+	color : #6ccdf0;
+	font-size: 7px; 
+}
+
+#footer-logo {
+	text-align: center;
+	padding-top: 38px;
+	padding-bottom: 38px;
+}
+
+#footer-title {
+	font-size: 14px;
+	margin-bottom: 17px;
+	display: block;
+	color : #bababa;
+	font-weight: 600;
+}
+
+.footer-desc {
+	display: block;
+	font-size: 10px;
+	color : #bababa;
+}
+
+#footer-links {
+	display: block;
+	color : #bababa;
+	font-size: 12px;
+	margin-top: 38px;
+	margin-bottom: 28px;
+}
+
+.text-align-center {
+	text-align: center;
+}
+
+.footer-icon {
+	padding-left: 13px;
+}
+
+.footer-last {
+	padding-bottom: 38px;
+}
+
+/* End of Footer Properties */
+
+
